@@ -1,0 +1,3 @@
+The only change that I did was to the row names I made them meaningful by including the word person in the title as well as what type of data that it represents, ie. test, train gyro, etc.
+
+
